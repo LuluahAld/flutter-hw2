@@ -1,2 +1,2 @@
 # Simple homepage
-## 5 widgets included
+5 widgets included
