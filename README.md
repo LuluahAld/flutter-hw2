@@ -1,1 +1,2 @@
-# flutter-hw2
+# Simple homepage
+## 5 widgets included
